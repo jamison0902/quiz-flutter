@@ -1,17 +1,10 @@
 # quiz-flutter
 Quiz sobre One-punch man usando flutter
-<div style="float: left; width: 33.33%;">
-    <img src="inicio.png" width="200" height="400" >
-</div>
-<div style="float: left; width: 33.33%;">
-    <img src="inicio.png" width="200" height="400">
-</div>
-<div style="float: left; width: 33.33%;">
-    <img src="inicio.png" width="200" height="400">
-</div>
 
+| ![Imagem 1](inicio.png) | ![Imagem 2](pergunta.png) | ![Imagem 3](resultado.png) |
+|---|---|---|
 
-## Procedimento para iniciar a aplicação
+## Iniciando a aplicação
 
 ```
 yarn install
